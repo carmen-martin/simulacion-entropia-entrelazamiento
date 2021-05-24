@@ -1,2 +1,3 @@
-# Simulación para el TFG
+Simulación para el TFG
+
 Se muestra una simulación realizada con jupyer notebook que modela el comportamiento de un sistema sometido a un baño térmico, y que analiza la entropía de entrelazamiento del sistema. El notebook "simulacion_por_pasos" muestra el proceso de la simulación y paso a paso como se construyen el Hamiltoniano, el estado y la matriz densidad. Por otro lado, el notebook "simulacion" recoge la simulación final en la que se comparan los resultados de distintas matrices de interacción sistema-baño.
